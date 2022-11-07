@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jebril</h1>
 <h3 align="center">A student developer from France 🇫🇷</h3>
 
-- 🔭 I’m currently working on [WorldWide-Weather-Watcher](https://github.com/larg0c/Worldwide-Weather-Watcher)
+- 🔭 I’m currently working on [CESI-Restaurant](https://github.com/yaniswav/CESI-Restaurant)
 
 - 🌱 I’m currently learning **C++,**
 
